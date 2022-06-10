@@ -23,7 +23,7 @@ This repository contains the project code that allows you to call the speech rec
 
 **Step 3**<br>
 
-3. Open code with `Android Studio`. Build and install (`apk`) it on an android-device.
+3. Open code with `Android Studio`. Build and install `apk` on an android-device.
 
 
 **Step 4**<br>
