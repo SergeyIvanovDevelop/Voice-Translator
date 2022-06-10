@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SergeyIvanovDevelop/Voice-Translator">
-    <img alt="Voice-Translator" src="./resources/logo.png"/>
+    <img alt="Voice-Translator" src="./resources/logo.png" width="280" height="200"/>
   </a>
 </p>
 <h1 align="center">
