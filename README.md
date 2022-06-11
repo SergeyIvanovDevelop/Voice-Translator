@@ -30,14 +30,5 @@ This repository contains the project code that allows you to call the speech rec
 
 4. Run application.
 
-
-**:clapper: Example using (GIF):**<br>
-
-This animation demonstrates scenarios for using the `Voice-Translator`.<br>
-
-<p align="center">
-  <img src="./resources/Voice-Translator.gif" alt="animated" />
-</p>
-
 ### :bookmark_tabs: Licence ###
 Voice-Translator is [CC BY-NC-SA 3.0 licensed](./LICENSE).
