@@ -30,5 +30,7 @@ This repository contains the project code that allows you to call the speech rec
 
 4. Run application.
 
+_Note: `Yandex.Translate` stopped issuing free trial keys for using `API` of its service_
+
 ### :bookmark_tabs: Licence ###
 Voice-Translator is [CC BY-NC-SA 3.0 licensed](./LICENSE).
