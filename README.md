@@ -9,7 +9,7 @@
 
 ## Voice-Translator &middot; [![GitHub license](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-blue)](./LICENSE) [![AndroidStudio](https://img.shields.io/badge/IDE-AndroidStudio-blue)](https://developer.android.com/studio) [![Java](https://img.shields.io/badge/lang-Java-9cf)](https://www.java.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-Sergey%20Ivanov-blue)](https://www.linkedin.com/in/sergey-ivanov-33413823a/) [![Telegram](https://img.shields.io/badge/telegram-%40SergeyIvanov__dev-blueviolet)](https://t.me/SergeyIvanov_dev) ##
 
-This repository contains the project code that allows you to call the speech recognition/synthesis services from [Google](https://www.google.com/), as well as the translation service from one language to another from the company [Yandex](https:// yandex.ru/) from your own `Android` application.
+This repository contains the project code that allows you to call the speech recognition/synthesis services from [Google](https://www.google.com/), as well as the translation service from one language to another from the company [Yandex](https://yandex.ru/) from your own `Android` application.
 
 ## :computer: Getting Started  ##
 
